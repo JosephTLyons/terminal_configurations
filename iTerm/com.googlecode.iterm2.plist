@@ -834,41 +834,11 @@
 	<key>Print In Black And White</key>
 	<true/>
 	<key>Snippets</key>
-	<array>
-		<dict>
-			<key>title</key>
-			<string>Lyons' APU</string>
-			<key>value</key>
-			<string>ssh root@172.16.200.185
-</string>
-		</dict>
-		<dict>
-			<key>title</key>
-			<string>Klatch APU</string>
-			<key>value</key>
-			<string>ssh root@172.16.185.1
-</string>
-		</dict>
-		<dict>
-			<key>title</key>
-			<string>Installer Password</string>
-			<key>value</key>
-			<string>!OAfVjp8Uy&amp;9
-</string>
-		</dict>
-		<dict>
-			<key>title</key>
-			<string>Server Password</string>
-			<key>value</key>
-			<string>ghKIVvo6
-</string>
-		</dict>
-	</array>
+	<array/>
 	<key>SoundForEsc</key>
 	<false/>
 	<key>ToolbeltTools</key>
 	<array>
-		<string>Snippets</string>
 		<string>Notes</string>
 	</array>
 	<key>Use background pattern indicator</key>
